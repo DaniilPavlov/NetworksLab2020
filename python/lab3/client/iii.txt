@@ -1,0 +1,6 @@
+127.0.0.1 PUT iii.txt
+127.0.0.1 GET zhenya.mp4
+127.0.0.1 PUT zhenya.mp4
+127.0.0.1 PUT test.txt
+127.0.0.1 GET test.txt
+
